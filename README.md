@@ -6,3 +6,5 @@ Used Unity game engine and C# code
 Used similar balloon tower defense mechanics
 All assets were made by me and my partner 
 Site of the Game: http://www.csdept.csi.cuny.edu/~drsturm/523F2019/InfectionProtectionWebGL/
+
+The current committed WebBuild is out of date and can't be downloaded so follow the link above
